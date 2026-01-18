@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Dev de Zéro</title>
+      <link>https://petoulemonde.github.io/blog/</link>
+      <description>Les dernières 10 notes on Dev de Zéro</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Bienvenue 👋</title>
+    <link>https://petoulemonde.github.io/blog/</link>
+    <guid>https://petoulemonde.github.io/blog/</guid>
+    <description><![CDATA[ Salut, bienvenue moi-même qur QUartz. Let’s go pour un premier essai !! Nav : page1 page2 . ]]></description>
+    <pubDate>Sun, 18 Jan 2026 20:12:09 GMT</pubDate>
+  </item><item>
+    <title>Page 1</title>
+    <link>https://petoulemonde.github.io/blog/page1</link>
+    <guid>https://petoulemonde.github.io/blog/page1</guid>
+    <description><![CDATA[ Ma première page ! ]]></description>
+    <pubDate>Thu, 11 Dec 2025 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>Page 2</title>
+    <link>https://petoulemonde.github.io/blog/page2</link>
+    <guid>https://petoulemonde.github.io/blog/page2</guid>
+    <description><![CDATA[ Ma première page ! ]]></description>
+    <pubDate>Thu, 11 Dec 2025 23:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

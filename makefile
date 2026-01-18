@@ -10,7 +10,6 @@ doc:
 
 build:
 	npx quartz build
-	cd public && python -m http.server
 
 serve:
 	npx quartz build --serve --watch
