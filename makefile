@@ -9,7 +9,7 @@ doc:
 	npx quartz build --serve -d docs
 
 build:
-	npx quartz build
+	npx quartz build --output docs
 
 serve:
 	npx quartz build --serve --watch
