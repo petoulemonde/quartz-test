@@ -10,9 +10,9 @@ doc:
 
 build:
 	npx quartz build --output docs
+	git add *
+	git commit -m $(commit)
+	git push -u github master
 
 serve:
 	npx quartz build --serve --watch
-
-sync:
-	@echo not configured ...
