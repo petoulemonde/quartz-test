@@ -11,8 +11,11 @@ doc:
 build:
 	npx quartz build --output docs
 	git add *
-	git commit -m $(commit)
+	git commit -m "$(commit)"
 	git push -u github master
 
 serve:
 	npx quartz build --serve --watch
+
+git-log:
+	git log --oneline --graph --decorate --first-parent

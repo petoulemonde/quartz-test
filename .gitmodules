@@ -1,0 +1,3 @@
+[submodule "quartz2"]
+	path = quartz2
+	url = https://github.com/jackyzha0/quartz.git
